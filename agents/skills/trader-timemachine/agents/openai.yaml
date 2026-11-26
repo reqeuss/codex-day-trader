@@ -1,4 +1,0 @@
-interface:
-  display_name: "Simulation historique"
-  short_description: "Rejouer les séances et simuler le plan"
-  default_prompt: "Utilise $trader-timemachine pour cette demande : rejoue le plan TSLA des fixtures hors ligne et explique les limites de la simulation."

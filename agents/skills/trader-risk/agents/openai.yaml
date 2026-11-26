@@ -1,4 +1,0 @@
-interface:
-  display_name: "Contrôle du risque"
-  short_description: "Comparer le ticket aux limites configurées"
-  default_prompt: "Utilise $trader-risk pour cette demande : contrôle ce ticket de simulation et explique chaque blocage."

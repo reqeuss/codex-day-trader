@@ -1,4 +1,0 @@
-interface:
-  display_name: "Taille de position"
-  short_description: "Dimensionner la position selon mon risque"
-  default_prompt: "Utilise $trader-budget pour cette demande : calcule le nombre d’actions pour mon scénario de simulation avec mon budget et mon plafond de perte."

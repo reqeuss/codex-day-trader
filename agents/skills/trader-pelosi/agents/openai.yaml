@@ -1,4 +1,0 @@
-interface:
-  display_name: "Déclarations du Congrès"
-  short_description: "Lire et dater les déclarations publiques PTR"
-  default_prompt: "Utilise $trader-pelosi pour cette demande : extrais les transactions d’un PTR des fixtures et indique le délai de publication."

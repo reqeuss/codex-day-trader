@@ -1,4 +1,0 @@
-interface:
-  display_name: "Alertes de marché"
-  short_description: "Contrôler un seuil, un stop ou une heure"
-  default_prompt: "Utilise $trader-alerts pour cette demande : vérifie les seuils de mon plan sur les cours de la fixture locale."

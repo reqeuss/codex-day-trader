@@ -1,4 +1,0 @@
-interface:
-  display_name: "Veille de marché"
-  short_description: "Vérifier les titres de presse et dépôts SEC"
-  default_prompt: "Utilise $trader-news pour cette demande : résume les actualités TSLA de la fixture locale avec leurs sources."

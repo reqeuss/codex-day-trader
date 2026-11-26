@@ -1,4 +1,0 @@
-interface:
-  display_name: "Plan de sortie"
-  short_description: "Calculer le stop, l’objectif et l’heure de sortie"
-  default_prompt: "Utilise $trader-exit pour cette demande : construis un plan de sortie à partir de mon scénario historique."
