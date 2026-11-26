@@ -1,0 +1,4 @@
+interface:
+  display_name: "Déclencheur d’entrée"
+  short_description: "Vérifier la clôture d’une bougie de signal"
+  default_prompt: "Utilise $trader-entry pour cette demande : vérifie la cassure TSLA sur la fixture du 19 octobre 2026 à 10 h 15, heure de New York."

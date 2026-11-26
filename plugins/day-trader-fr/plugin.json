@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "day-trader-fr",
+  "version": "2.0.0-fr.1-codex.1",
+  "description": "Onze skills en français pour analyser les actions américaines, simuler un scénario et contrôler le risque. Tickets et journal locaux en simulation.",
+  "license": "MIT",
+  "repository": "https://github.com/dan-ai-lab/day-trader-fr"
+}
