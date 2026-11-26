@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ticket de simulation"
+  short_description: "Préparer un ticket et journaliser mon accord"
+  default_prompt: "Utilise $trader-broker pour cette demande : affiche un seul ticket de simulation contrôlé et indique les validations encore en attente."
+policy:
+  allow_implicit_invocation: false

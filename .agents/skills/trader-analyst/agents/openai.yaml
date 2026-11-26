@@ -1,0 +1,4 @@
+interface:
+  display_name: "Résultats et dépôts SEC"
+  short_description: "Comparer les chiffres et les marges publiés"
+  default_prompt: "Utilise $trader-analyst pour cette demande : compare les chiffres AAPL des fixtures SEC au même trimestre de l’année précédente."

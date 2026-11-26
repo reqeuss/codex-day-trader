@@ -1,0 +1,20 @@
+{
+  "name": "day-trader-fr-local",
+  "interface": {
+    "displayName": "Day Trader FR (local)"
+  },
+  "plugins": [
+    {
+      "name": "day-trader-fr",
+      "source": {
+        "source": "local",
+        "path": "./plugins/day-trader-fr"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Finance"
+    }
+  ]
+}
