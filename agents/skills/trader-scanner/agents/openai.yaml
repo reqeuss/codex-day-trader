@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scanner de marché"
+  short_description: "Repérer les configurations sur actions US"
+  default_prompt: "Utilise $trader-scanner pour cette demande : analyse les données historiques TSLA de la fixture scanner et indique leur date."
